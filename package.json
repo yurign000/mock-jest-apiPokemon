@@ -1,0 +1,12 @@
+{
+  "name": "api-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumirAPI.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
